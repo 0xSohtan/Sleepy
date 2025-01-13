@@ -454,6 +454,10 @@
     padding: 10px;
   }
 
+  .exe-text {
+    font-size: 12px;
+  }
+
   .footer {
     flex-direction: column;
     padding-bottom: 0;
